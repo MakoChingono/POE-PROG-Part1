@@ -3,7 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package testlogicandregistration;
-
+// Login and Registration System
+  Assisted using ChatGPT (OpenAI, 2025)
+  https://chat.openai.com/
+  Date of assistance: September 3–18, 2025
 /**
  *
  * @author RC_Student_lab
@@ -77,3 +80,4 @@ public class TestLogicAndRegistration{
     }
     
 }
+
